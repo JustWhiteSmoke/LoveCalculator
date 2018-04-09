@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoveCalculator</string>
+    <string name="male">Male</string>
+    <string name="female">Femelle</string>
+    <string name="calculate">CALCULER</string>
+    <string name="change">N\'aimez-vous pas votre résult? Cliquez ici</string>
+    <string name="features">Choisissez les caractéristiques de la personne avec laquelle vous pensez pouvoir trouver une bonne affinité:</string>
+    <string name="beautiful">Beau</string>
+    <string name="extroverted">Extroverti</string>
+    <string name="charming">Charmant</string>
+    <string name="rich">Riches</string>
+    <string name="honest">Honnête</string>
+    <string name="nice">Agréable</string>
+    <string name="search">CHERCHER</string>
+</resources>
